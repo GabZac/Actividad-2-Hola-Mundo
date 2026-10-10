@@ -1,7 +1,6 @@
 MIT License
 
-Copyright (c) 2026 [NOMBRES DE LOS INTEGRANTES DEL GRUPO]
-
+Copyright (c) 2026 Gabriel Zacarias, Sofia Mojica, Leonel De armas y Mateo Roberts
 Por la presente se concede permiso, sin cargo, a cualquier persona que obtenga una copia de este software y archivos de documentación asociados (el "Software"), para utilizar el Software sin restricciones, incluyendo, sin limitación, los derechos a usar, copiar, modificar, fusionar, publicar, distribuir, sublicenciar y/o vender copias del Software, sujeto a las siguientes condiciones:
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
